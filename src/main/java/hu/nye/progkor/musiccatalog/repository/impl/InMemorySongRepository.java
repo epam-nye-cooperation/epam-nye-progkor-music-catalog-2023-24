@@ -9,7 +9,7 @@ import java.util.Map;
 import java.util.Optional;
 
 @org.springframework.stereotype.Repository
-public class InMemorySongRepository implements Repository<Song,Long> {
+public class InMemorySongRepository implements Repository<Song, Long> {
     private static final Map<Long, Song> STORAGE = new HashMap<>();
 
     @Override

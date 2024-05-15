@@ -3,7 +3,7 @@ package hu.nye.progkor.musiccatalog.repository;
 import java.util.List;
 import java.util.Optional;
 
-public interface Repository<T,I> {
+public interface Repository<T, I> {
 
     /**
      * Saves a new entity in the repository.
