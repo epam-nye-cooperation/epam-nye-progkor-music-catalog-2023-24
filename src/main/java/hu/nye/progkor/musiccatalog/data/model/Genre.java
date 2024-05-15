@@ -6,5 +6,7 @@ public enum Genre {
     JAZZ,
     CLASSICAL,
     METAL,
-    ELECTRONIC
+    ELECTRONIC,
+    NUMETAL
+
 }
