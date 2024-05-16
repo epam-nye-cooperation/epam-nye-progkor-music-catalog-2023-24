@@ -11,7 +11,7 @@
 	</parent>
 
 	<groupId>hu.nye.progkor</groupId>
-	<artifactId>music-catalog</artifactId>
+	<artifactId>music-catalog-2023-24</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<name>music-catalog</name>
@@ -185,7 +185,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub Packages</name>
-			<url>https://maven.pkg.github.com/epam-nye-cooperation/epam-nye-progkor-music-catalog-2023-24</url>
+			<url>https://maven.pkg.github.com/epam-nye-cooperation/epam-nye-progkor-music-catalog</url>
 		</repository>
 	</distributionManagement>
 
